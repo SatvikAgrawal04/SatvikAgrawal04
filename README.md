@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An enthusiastic frontend developer, passionate about Ethical Hacking from India</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
