@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvik Agrawal</h1>
-<h3 align="center">An enthusiastic frontend developer, passionate about Ethical Hacking from India</h3>
+<h3 align="center">An enthusiastic web developer from India</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
